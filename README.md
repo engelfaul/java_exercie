@@ -1,1 +1,1 @@
-# java_exercie
+# java_exercise
